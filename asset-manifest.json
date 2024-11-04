@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/productShop/static/css/main.e016344d.css",
+    "main.js": "/productShop/static/js/main.c53ba20c.js",
+    "static/js/453.1d8c477c.chunk.js": "/productShop/static/js/453.1d8c477c.chunk.js",
+    "static/media/bacola.png": "/productShop/static/media/bacola.4200204369a39987d39b.png",
+    "index.html": "/productShop/index.html",
+    "main.e016344d.css.map": "/productShop/static/css/main.e016344d.css.map",
+    "main.c53ba20c.js.map": "/productShop/static/js/main.c53ba20c.js.map",
+    "453.1d8c477c.chunk.js.map": "/productShop/static/js/453.1d8c477c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e016344d.css",
+    "static/js/main.c53ba20c.js"
+  ]
+}
